@@ -1,1 +1,1 @@
-# IT_Exercises_Java
+# Words exercise
